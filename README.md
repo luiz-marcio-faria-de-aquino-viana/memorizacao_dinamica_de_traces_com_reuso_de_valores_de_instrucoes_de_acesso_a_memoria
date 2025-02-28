@@ -1,8 +1,4 @@
-# memorizacao_dinamica_de_traces_com_reuso_de_valores_de_instrucoes_de_acesso_a_memoria
-
-MEMORIZAÇÃO DINÂMICA DE TRACES COM REUSO DE VALORES DE INSTRUÇÕES DE ACESSO À MEMÓRIA
-
-AUTOR: Luiz Marcio Faria de Aquino Viana
+# MEMORIZAÇÃO DINÂMICA DE TRACES COM REUSO DE VALORES DE INSTRUÇÕES DE ACESSO À MEMÓRIA - AUTOR: Luiz Marcio Faria de Aquino Viana
 
 TESE SUBMETIDA AO CORPO DOCENTE DA COORDENAÇÃO DOS PROGRAMAS DE PÓS-GRADUAÇÃO DE ENGENHARIA DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO COMO PARTE DOS REQUISITOS NECESSÁRIOS PARA A OBTENÇÃO DO GRAU DE MESTRE EM CIÊNCIAS EM ENGENHARIA DE SISTEMAS DE COMPUTAÇÃO.
 
@@ -13,15 +9,11 @@ APROVADA POR:
   Prof. Philippe Olivier Alexandre Navaux, Dr. Ing.
   Profa. Anna Dolejsi Santos, D.Sc.
 
-# Dedicatória
-
-DEDICATÓRIA
+# DEDICATÓRIA
 
 À Mila, minha esposa, e aos meus filhos, Luiz Felipe e Maria Julia, por toda a alegria e força que me proporcionam.
 
-# Agradecimentos
-
-AGRADECIMENTOS
+# AGRADECIMENTOS
 
 Agredeço a Deus pela força e luz recebida durante o desenvolvimento deste trabalho e pela oportunidade que eu tive em ampliar o meu conhecimento.
 
@@ -35,7 +27,7 @@ Agradeço em especial ao apoio recebido do amigo Amarildo Teodoro da Costa pelas
 
 Aos meus pais, José Luiz de Aquino Viana e Maria Cristina Faria de Aquino Viana, pelo apoio e constante incentivo recebidos durante toda a minha vida.
 
-# Resumo
+# RESUMO
 
 Resumo da Tese apresentada à COPPE/UFRJ como parte dos requisitos necessários para a obtenção do grau de Mestre em Ciências (M.Sc.)
 
@@ -50,7 +42,7 @@ Programa: Engenharia de Sistemas e Computação
 
 No passado, com o objetivo de aumentar o desempenho dos processadores, as novas tecnologias focavam a otimização da velocidade dos processadores sem a devida avaliação da quantidade de trabalho redundante executado. Recentemente, novos mecanismos foram introduzidos com o intuito de prover desempenho através da redução da quantidade de trabalho redundante executado por um processador e, entre estes, as técnicas de reuso dinâmico de traces vem se destacando bastante. Este trabalho introduz o novo mecanismo de reuso dinâmico de traces denominado Dynamic Trace Memoization with Reuse of Memory Values, DTMm, que estende as funcionalidades do mecanismo original, DTM (Dynamic Trace Memoization), com a adição de reuso de valores de instruções de acesso à memória. Os experimentos realizados com o DTMm apresentaram um crescimento médio de 4.7% na aceleração sobre o mecanismo original e 7.9% sobre a arquitetura base para um benchmark composto por um subconjunto de programas do SPECint' 95.
 
-# Abstract
+# ABSTRACT
 
 Abstract of Thesis presented to COPPE/UFRJ as a partial fulfillment of the requeriments for degree of Master of Science (M.Sc.)
 
