@@ -53,4 +53,10 @@ Department: Engenharia de Sistemas e Computação
 
 In the past, with the objective to improve the speed of processors, the new technologies were looking for optimizations in processors speed without taking profit from redundant work. Recently, new mecanisms were introduced with the intention to improve speed with the reduction in the quantities of redundant work, and dynamic trace reuse techniques have been introduced. This work introduce a new scheme for trace reuse named Dynamic Trace Memoization with Reuse of Memory Values, DTMm, which extend the funtionality of DTM (Dynamic Trace Memoization), by adding reuse of values of memory access instructions. Experiments done with DTMm shows a growth of 4.7% in speed over the original mecanism and 7.9% over the superscalar base architecture for a benchmark based on a subset of programs from SPECint '95.
 
-#
+# CONTATO
+
+CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS ACADEMIC WORK!
+
+Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
+E-mail: luiz.marcio.viana@gmail.com
+Phone/WhatsApp: +55-21-99983-7207
