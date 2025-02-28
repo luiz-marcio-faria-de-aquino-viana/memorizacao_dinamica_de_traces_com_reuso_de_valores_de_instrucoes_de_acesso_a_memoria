@@ -1,13 +1,9 @@
-# MEMORIZAÇÃO DINÂMICA DE TRACES COM REUSO DE VALORES DE INSTRUÇÕES DE ACESSO À MEMÓRIA - AUTOR: Luiz Marcio Faria de Aquino Viana
+# MEMORIZAÇÃO DINÂMICA DE TRACES COM REUSO DE VALORES DE INSTRUÇÕES DE ACESSO À MEMÓRIA
+AUTOR: Luiz Marcio Faria de Aquino Viana
 
 TESE SUBMETIDA AO CORPO DOCENTE DA COORDENAÇÃO DOS PROGRAMAS DE PÓS-GRADUAÇÃO DE ENGENHARIA DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO COMO PARTE DOS REQUISITOS NECESSÁRIOS PARA A OBTENÇÃO DO GRAU DE MESTRE EM CIÊNCIAS EM ENGENHARIA DE SISTEMAS DE COMPUTAÇÃO.
 
-APROVADA POR:
-
-  Prof. Felipe Maia Galvão França, Ph.D.
-  Prof. Amarildo Teodoro da Costa, D.Sc.
-  Prof. Philippe Olivier Alexandre Navaux, Dr. Ing.
-  Profa. Anna Dolejsi Santos, D.Sc.
+APROVADA POR: Prof. Felipe Maia Galvão França, Ph.D., Prof. Amarildo Teodoro da Costa, D.Sc., Prof. Philippe Olivier Alexandre Navaux, Dr. Ing., e Profa. Anna Dolejsi Santos, D.Sc.
 
 # DEDICATÓRIA
 
